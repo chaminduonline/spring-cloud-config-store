@@ -1,2 +1,3 @@
+message: Hi Spring boot cloud config
 server:
   port: 8094
