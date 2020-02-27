@@ -1,0 +1,3 @@
+message: Hi Spring boot cloud config - chamindu online
+server:
+  port: 8085
