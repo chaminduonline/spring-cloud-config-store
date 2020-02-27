@@ -1,7 +1,7 @@
 message: Hi Spring Cloud Config
 
 server:
-  port: 8191
+  port: 8190
 spring:
   cloud:
     config:
