@@ -1,6 +1,6 @@
 message: Hi Spring boot cloud config - chamindu online
 server:
-  port: 8094
+  port: 8095
 
 spring:
   datasource:
